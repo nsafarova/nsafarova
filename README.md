@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center"><img width="400" height="auto" src="https://github.com/nsafarova/nsafarova/blob/main/Drawing.png?raw=true" height="200px"/></p>
+<p align="center"><img width="500" height="auto" src="https://github.com/nsafarova/nsafarova/blob/main/Drawing.png?raw=true" height="200px"/></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Nigar </h1>
 
 - 🔭 I’m currently working on my Portfolio Website
@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about front-end development
 - 📫 How to reach me: nigarsafarova@hotmail.com
-- ⚡ Fun fact: I love cats🐱
+- ⚡ Fun fact: I love cats🐱 & Apple products
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nsafarova&show_icons=true&locale=en&layout=compact" alt="nsafarova" /></p>
 
