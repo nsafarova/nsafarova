@@ -1,4 +1,4 @@
-<p><img width="500" height="auto" src="https://github.com/nsafarova/nsafarova/blob/main/Drawing.png?raw=true" height="200px"/></p>
+<p><img width="400" height="auto" src="https://github.com/nsafarova/nsafarova/blob/main/IMG_1882.PNG?raw=true" height="200px"/></p>
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, &nbsp;I'm Nigar </h1>
 
 - 🔭 I’m currently working on my Portfolio Website
