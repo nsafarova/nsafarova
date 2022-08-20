@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<p align="center"><img width="500" height="auto" src="https://github.com/nsafarova/nsafarova/blob/main/Drawing.png?raw=true" height="200px"/></p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Nigar </h1>
+<p><img width="500" height="auto" src="https://github.com/nsafarova/nsafarova/blob/main/Drawing.png?raw=true" height="200px"/></p>
+<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Nigar </h1>
 
 - 🔭 I’m currently working on my Portfolio Website
 - 🌱 I’m currently learning more about React framework
