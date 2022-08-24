@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on my Portfolio Website
 - 🌱 I’m currently learning more about React framework
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about front-end development
 - 📫 How to reach me: nigarsafarova@hotmail.com
 - ⚡ Fun fact: I love cats🐱 & Apple products
