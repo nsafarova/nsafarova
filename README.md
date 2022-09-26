@@ -10,11 +10,11 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://dart.dev/" target="_blank"> <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://www.flaticon.com/free-icon/react_1183672?term=react&page=1&position=1&page=1&position=1&related_id=1183672&origin=search"/> </a>
+    <a href="https://material-ui.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" /> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://material-ui.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="[https://material-ui.com/](https://getbootstrap.com)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>   
     <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/> </a> 
  
