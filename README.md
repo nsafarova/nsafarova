@@ -10,7 +10,8 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://www.flaticon.com/free-icon/react_1183672?term=react&page=1&position=1&page=1&position=1&related_id=1183672&origin=search"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="<img src="https://img.icons8.com/color/48/000000/react-native.png"/>"/> </a>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
     <a href="https://material-ui.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" /> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
