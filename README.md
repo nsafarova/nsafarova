@@ -7,6 +7,6 @@
 - 📫 How to reach me: nigarsafarova@hotmail.com
 - ⚡ Fun fact: I love cats🐱 & Apple products
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nsafarova&show_icons=true&locale=en&layout=compact" alt="nsafarova" /></p>
-<br /><br /><br /> &nbsp;
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nsafarova&show_icons=true&locale=en" alt="nsafarova" />
+## 📊 My Github Stats
+<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nsafarova&show_icons=true&locale=en" alt="nsafarova" /></p>
