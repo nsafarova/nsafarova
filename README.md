@@ -4,9 +4,9 @@
 
 I am 22 years old and IT graduate who loves everything about frontend development. I am solution oriented, enthusiastic with a fondness for creating web applications and learning more about web development.  
 
-- 🔭 I’m currently working on my Portfolio Website
-- 🌱 I’m currently learning more about React framework
-- 📫 You can reach me via nigarsafarova@hotmail.com
+- 🖥️ I’m currently working on my Portfolio Website
+- 🧠 I’m currently learning more about React framework
+- ✉ You can reach me via nigarsafarova@hotmail.com
 - ⚡ Fun fact: I love cats🐱 & Apple products
 
 ### 🚀 Skills
