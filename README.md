@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> My name is Nigar Safarova
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Nigar Safarova
 
 ## Frontend Developer
 
@@ -24,7 +24,7 @@
 ### Socials
 
 <p align="left"> 
-    <a href="https://github.com/nsafarova" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/> </a>
+    <a href="https://github.com/nsafarova" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/> </a>
     <a href="https://www.linkedin.com/in/nssafarova" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
 </p>
 
