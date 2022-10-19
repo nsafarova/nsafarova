@@ -19,12 +19,14 @@
     <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/> </a> 
 </p>
 
+### Socials
+
+<p align="left"> 
+    <a href="https://www.linkedin.com/in/nssafarova" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32" height="32" /></a>
+</p>
+
 ### 📊 My Github Stats
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nsafarova&show_icons=true&locale=en" alt="nsafarova" /></p>
 
-### Socials
 
-<p align="left"> 
-    <a href="https://www.linkedin.com/in/nssafarova" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-     generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
