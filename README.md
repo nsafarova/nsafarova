@@ -2,14 +2,14 @@
 
 ## Frontend Developer
 
-<!-- <img align='right' width="300px" height="300px" src="https://github.com/nsafarova/nsafarova/blob/main/IMG_1882.PNG?raw=true" height="175px"/> -->
+I am 22 years old and IT graduate who loves everything about frontend development. I am solution oriented, enthusiastic with a fondness for creating web applications and learning more about web development.  
 
 - 🔭 I’m currently working on my Portfolio Website
 - 🌱 I’m currently learning more about React framework
 - 📫 You can reach me via nigarsafarova@hotmail.com
 - ⚡ Fun fact: I love cats🐱 & Apple products
 
-### 🚀 Languages and Tools:
+### 🚀 Skills
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
