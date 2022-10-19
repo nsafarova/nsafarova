@@ -1,4 +1,7 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, &nbsp;I'm Nigar </h1>
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> My name is Magnus Nielsen
+
+## Frontend Developer
+
 <!-- <img align='right' width="300px" height="300px" src="https://github.com/nsafarova/nsafarova/blob/main/IMG_1882.PNG?raw=true" height="175px"/> -->
 
 - 🔭 I’m currently working on my Portfolio Website
@@ -15,13 +18,13 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" /> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="[https://material-ui.com/](https://getbootstrap.com)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>   
-    <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>    
 </p>
 
 ### Socials
 
 <p align="left"> 
+    <a href="https://github.com/nsafarova" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/> </a>
     <a href="https://www.linkedin.com/in/nssafarova" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
 </p>
 
