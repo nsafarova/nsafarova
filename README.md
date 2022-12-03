@@ -30,10 +30,18 @@ I am 22 years old and IT graduate who loves everything about frontend developmen
 
 ### 📊 My Github Stats
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=nsafarova&show_icons=true&theme=algolia)            
-<!-- ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nsafarova&theme=algolia) --!>                  
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/nsafarova/github-readme-stats"><img alt="Nigar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nsafarova&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+<br/>
+  &nbsp;
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nsafarova&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
+  <br/>
+  </p>
+</details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsafarova&langs_count=8&theme=algolia)
-	
+
 ![](https://komarev.com/ghpvc/?username=nsafarova&style=flat-square)
 
