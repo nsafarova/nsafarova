@@ -34,14 +34,8 @@ I am 22 years old and IT graduate who loves everything about frontend developmen
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nsafarova&show_icons=true&locale=en" alt="nsafarova" /></p>
 -->
 
-## GitHub Stats
-
-
-|                                                                     My Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![My Github Graph](https://activity-graph.herokuapp.com/graph?username=nsafarova&theme=react-dark&hide_border=true&area=true) |
-| ![My Github Stats](https://github-readme-stats.vercel.app/api?username=nsafarova&show_icons=true&theme=algolia)              | 
-| ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nsafarova&theme=algolia)                    | 
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=nsafarova&show_icons=true&theme=algolia)            
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nsafarova&theme=algolia)                   
     
 
 |                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
