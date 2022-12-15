@@ -21,7 +21,7 @@ I am 22 years old and IT graduate who loves everything about frontend developmen
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>    
 </p>
 
-### Socials
+### 📱 Socials
 
 <p align="left"> 
     <a href="https://github.com/nsafarova" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/> </a>
