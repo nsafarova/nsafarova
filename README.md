@@ -42,3 +42,6 @@ I am 23 years old and IT graduate who loves everything about frontend developmen
   </p>
 </details>
 
+### Certificates
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0dab87ee-dfd4-4679-8a29-8fa0c16f9ca7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
