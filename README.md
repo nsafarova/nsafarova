@@ -28,10 +28,8 @@ I am 23 years old and IT graduate who loves everything about frontend developmen
     <a href="https://www.linkedin.com/in/nssafarova" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
 </p>
 
-### 📊 My Github Stats
-
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>📊 My Github Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/nsafarova/github-readme-stats"><img alt="Nigar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nsafarova&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
