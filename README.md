@@ -1,11 +1,11 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Nigar Safarova
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Nigar Safarova.
 
-## Frontend Developer
+## Front-end Developer
 
 I am 23 years old and IT graduate who loves everything about frontend development. I am solution oriented, enthusiastic with a fondness for creating web applications and learning more about web development.  
 
 - 🖥️ I’m currently working on my Portfolio 
-- 🧠 I’m currently learning more about React framework
+- 🧠 I’m currently learning more about Next.js framework
 - ✉ You can reach me via nigarsafarova@hotmail.com
 - ⚡ Fun fact: I love cats🐱 & Apple products
 
