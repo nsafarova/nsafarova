@@ -47,4 +47,4 @@ I am 23 years old and IT graduate who loves everything about front-end developme
     <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/LRLRZTZR5TPU" target="_blank"> <img src="https://images.credly.com/size/110x110/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png"/> </a>
 </p>
 
- ![](https://komarev.com/ghpvc/?username=nsafarova&label=PROFILE+VIEWS)
+ ![](https://komarev.com/ghpvc/?username=nsafarova&color=blueviolet&label=Profile+Views)
