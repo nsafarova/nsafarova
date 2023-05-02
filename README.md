@@ -2,7 +2,7 @@
 
 ## Front-end Developer
 
-I am 23 years old and IT graduate who loves everything about frontend development. I am solution oriented, enthusiastic with a fondness for creating web applications and learning more about web development.  
+I am 23 years old and IT graduate who loves everything about front-end development. I am solution oriented, enthusiastic with a fondness for creating web applications and learning more every day.  
 
 - 🖥️ I’m currently working on my Portfolio 
 - 🧠 I’m currently learning more about Next.js framework
@@ -46,3 +46,5 @@ I am 23 years old and IT graduate who loves everything about frontend developmen
 <p align="left"> 
     <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/LRLRZTZR5TPU" target="_blank"> <img src="https://images.credly.com/size/110x110/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png"/> </a>
 </p>
+
+ ![](https://komarev.com/ghpvc/?username=nsafarova&label=PROFILE+VIEWS)
