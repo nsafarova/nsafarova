@@ -4,7 +4,7 @@
 
 I am 23 years old and IT graduate who loves everything about front-end development. I am solution oriented, enthusiastic with a fondness for creating web applications and learning more every day.  
 
-- 🖥️ I’m currently working on my Portfolio 
+- 🖥️ I’m currently preparing for GRE exam
 - 🧠 I’m currently learning more about Next.js framework
 - ✉ You can reach me via nigarsafarova@hotmail.com
 - ⚡ Fun fact: I love cats🐱 & Apple products
