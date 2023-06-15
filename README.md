@@ -2,7 +2,7 @@
 
 ## Front-end Developer
 
-I am 23 years old and IT graduate who loves everything about front-end development. I am solution oriented, enthusiastic with a fondness for creating web applications and learning more every day.  
+I am an IT graduate and Front-end Developer who loves everything about front-end development. I am solution oriented, enthusiastic with a fondness for creating web applications and learning more every day.  
 
 - 🖥️ I’m currently looking for a new job opportunity
 - 🧠 I’m currently learning more about Next.js framework
