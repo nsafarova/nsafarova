@@ -3,9 +3,10 @@
 ## Front-end Developer
 
 I am an IT graduate and Front-end Developer who loves everything about front-end development. I am solution oriented, enthusiastic with a fondness for creating web applications and learning more every day.  
+Find my portfolio @ <a href="https://nikkisafarova.com/" target="_blank">nikkisafarova.com</a> 
 
-- 🖥️ I’m currently looking for a new job opportunity
-- 🧠 I’m currently learning more about Next.js framework
+- 🖥️ I’m currently building a startup project
+- 🧠 I’m currently learning more about Python language
 - ✉ You can reach me via nigarsafarova@hotmail.com
 - ⚡ Fun fact: I love cats🐱 & Apple products
 
