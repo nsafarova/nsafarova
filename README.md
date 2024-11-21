@@ -7,7 +7,7 @@ I am an IT graduate and Product Manager with a passion for researching, experime
 Find my portfolio @ <a href="https://nikkisafarova.com/" target="_blank">nikkisafarova.com</a> 
 
 - 🖥️ I’m currently building a startup project
-- 🧠 I’m currently learning more about Python language
+- 🧠 I’m currently learning more about blockchain
 - ✉ You can reach me via nigarsafarova@hotmail.com
 - ⚡ Fun fact: I love cats🐱 & Apple products
 
