@@ -1,10 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Nikki.
 
-## Front-end Developer
-
 I am an IT graduate and Product Manager with a passion for researching, experimenting, and bringing ideas to life. I thrive on exploring new technologies and creating solutions that make an impact. While I focus on driving product success, I also enjoy coding and building web applications, blending my love for development with a strategic approach to problem-solving.
-
-Find my portfolio @ <a href="https://nikkisafarova.com/" target="_blank">nikkisafarova.com</a> 
 
 - 🖥️ I’m currently building a startup project
 - 🧠 I’m currently learning more about blockchain
