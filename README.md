@@ -1,9 +1,9 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Nikki.
 
-I am an IT graduate and Product Manager with a passion for researching, experimenting, and bringing ideas to life. I thrive on exploring new technologies and creating solutions that make an impact. While I focus on driving product success, I also enjoy coding and building web applications, blending my love for development with a strategic approach to problem-solving.
+I am an MS MIS grad student at UofH and Product Manager with a passion for researching, experimenting, and bringing ideas to life. I thrive on exploring new technologies and creating solutions that make an impact. While I focus on driving product success, I also enjoy coding and building web applications, blending my love for development with a strategic approach to problem-solving.
 
-- 🖥️ I’m currently building a startup project
-- 🧠 I’m currently learning more about blockchain
+- 🖥️ I’m currently pursuing master's degree in MIS
+- 🧠 I’m currently learning more about product management
 - ✉ You can reach me via nigarsafarova@hotmail.com
 - ⚡ Fun fact: I love cats🐱 & Apple products
 
